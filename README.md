@@ -83,12 +83,6 @@ Feel free to contribute by:
 - Suggesting new features
 - Improving documentation
 
----
-
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` file for more information.
-
----
+--
 
 ✨ **Happy Coding!**
